@@ -1,2 +1,1 @@
-#Desarrollo de aprendije autonomo
-#2.2+
+Desarrollo de aprendije autonomo
