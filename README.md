@@ -1,1 +1,1 @@
-Desarrollo de aprendije autonomo
+Desarrollo de aprendizaje autonomo
