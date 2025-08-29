@@ -6,7 +6,7 @@ public class ClaseMunicipalidad {
     private String distrito;
     private String provincia;
     private int telefono;
-    private int ruc;
+    private String ruc;
     private int cantidadEmpleados;
 
     public ClaseMunicipalidad() {
@@ -41,10 +41,10 @@ public class ClaseMunicipalidad {
     public int getTelefono() {
         return telefono;
     }
-    public void setRuc(int ruc) {
+    public void setRuc(String ruc) {
         this.ruc = ruc;
     }
-    public int getRuc() {
+    public String getRuc() {
         return ruc;
     }
     public void setCantidadEmpleados(int cantidadEmpleados) {

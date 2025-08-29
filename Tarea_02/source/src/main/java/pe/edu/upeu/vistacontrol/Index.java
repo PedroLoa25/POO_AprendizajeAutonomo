@@ -19,7 +19,7 @@ public class Index {
         System.out.print("> Telefono: ");
         municipalidad.setTelefono(leer.entero());
         System.out.print("> RUC: ");
-        municipalidad.setRuc(leer.entero());
+        municipalidad.setRuc(leer.cadena());
         System.out.print("> Cantidad Empleados: ");
         municipalidad.setCantidadEmpleados(leer.entero());
 

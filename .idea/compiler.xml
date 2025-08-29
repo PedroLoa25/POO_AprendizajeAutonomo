@@ -10,8 +10,5 @@
         <module name="source (1)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="modelo" target="21" />
-    </bytecodeTargetLevel>
   </component>
 </project>
