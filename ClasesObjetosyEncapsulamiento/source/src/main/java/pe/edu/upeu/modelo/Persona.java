@@ -7,8 +7,7 @@ public class Persona {
     private String nombre;
     private int edad;
     private double talla;
-    public Persona() {
-    }
+    public Persona() {}
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
