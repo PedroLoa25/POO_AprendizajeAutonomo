@@ -10,12 +10,12 @@ public class Index {
 
         System.out.print("> Nombre: ");
         municipalidad.setNombre(leer.cadena());
-        System.out.print("> Direccion: ");
-        municipalidad.setDireccion(leer.cadena());
-        System.out.print("> Distrito: ");
-        municipalidad.setDistrito(leer.cadena());
         System.out.print("> Provincia: ");
         municipalidad.setProvincia(leer.cadena());
+        System.out.print("> Distrito: ");
+        municipalidad.setDistrito(leer.cadena());
+        System.out.print("> Direccion: ");
+        municipalidad.setDireccion(leer.cadena());
         System.out.print("> Telefono: ");
         municipalidad.setTelefono(leer.entero());
         System.out.print("> RUC: ");

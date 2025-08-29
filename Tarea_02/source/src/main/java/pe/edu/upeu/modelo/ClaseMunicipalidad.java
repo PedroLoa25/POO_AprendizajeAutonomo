@@ -9,19 +9,19 @@ public class ClaseMunicipalidad {
     private String ruc;
     private int cantidadEmpleados;
 
-    public ClaseMunicipalidad() {
-    }
+    public ClaseMunicipalidad() {}
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
     public String getNombre() {
         return nombre;
     }
-    public void setDireccion(String direccion) {
-        this.direccion = direccion;
+    public void setProvincia(String provincia) {
+        this.provincia = provincia;
     }
-    public String getDireccion() {
-        return direccion;
+    public String getProvincia() {
+        return provincia;
     }
     public void setDistrito(String distrito) {
         this.distrito = distrito;
@@ -29,11 +29,11 @@ public class ClaseMunicipalidad {
     public String getDistrito() {
         return distrito;
     }
-    public void setProvincia(String provincia) {
-        this.provincia = provincia;
+    public void setDireccion(String direccion) {
+        this.direccion = direccion;
     }
-    public String getProvincia() {
-        return provincia;
+    public String getDireccion() {
+        return direccion;
     }
     public void setTelefono(int telefono) {
         this.telefono = telefono;
