@@ -5,51 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructores/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructores/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Constructores/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tarea_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_1/src/main/java/pe/edu/upeu/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_1/src/main/java/pe/edu/upeu/utils/Lectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_1/src/main/java/pe/edu/upeu/vistacontrol/IndexProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_2/src/main/java/pe/edu/upeu/modelo/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_2/src/main/java/pe/edu/upeu/utils/Lectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/Tarea_03_2/src/main/java/pe/edu/upeu/vistacontrol/IndexLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea_03/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/POO_AprendizajeAutonomo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/Screenshots/Consola_ClasesObjetosyEncapsulamiento.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/Screenshots/Index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/Screenshots/Lectura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/Screenshots/Persona.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/src/main/java/pe/edu/upeu/modelo/Persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/src/main/java/pe/edu/upeu/utils/Lectura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/src/main/java/pe/edu/upeu/vistacontrol/Index.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/target/classes/pe/edu/upeu/modelo/Persona.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/target/classes/pe/edu/upeu/utils/Lectura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/target/classes/pe/edu/upeu/vistacontrol/Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/Screenshots/ClaseMunicipalidad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/Screenshots/Consola_Tarea_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/Screenshots/Index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/Screenshots/Lectura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/src/main/java/pe/edu/upeu/modelo/ClaseMunicipalidad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/src/main/java/pe/edu/upeu/utils/Lectura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/src/main/java/pe/edu/upeu/vistacontrol/Index.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/target/classes/pe/edu/upeu/modelo/ClaseMunicipalidad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/target/classes/pe/edu/upeu/utils/Lectura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea_02/source/target/classes/pe/edu/upeu/vistacontrol/Index.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +49,8 @@
     "Application.Index (2).executor": "Run",
     "Application.Index (3).executor": "Run",
     "Application.Index.executor": "Run",
+    "Application.IndexLibro.executor": "Run",
+    "Application.IndexProducto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -95,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/Constructores/src/main/java/pe/edu/upeu/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/Tarea_03/Tarea_03_2/src/main/java/pe/edu/upeu/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.10781476",
     "project.structure.side.proportion": "0.17045455",
@@ -104,20 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Index (3)">
-    <configuration name="Index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
-      <module name="source" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IndexLibro">
     <configuration name="Index (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
       <module name="Tarea_02" />
@@ -159,12 +116,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IndexLibro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.IndexLibro" />
+      <module name="Tarea_03_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.IndexProducto" />
+      <module name="Tarea_03_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndexLibro" />
+        <item itemvalue="Application.IndexProducto" />
         <item itemvalue="Application.Index (3)" />
         <item itemvalue="Application.Index (2)" />
         <item itemvalue="Application.Index" />
-        <item itemvalue="Application.Index (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +173,9 @@
       <workItem from="1756475986812" duration="193000" />
       <workItem from="1756476211837" duration="24000" />
       <workItem from="1756484430457" duration="65000" />
-      <workItem from="1756843612988" duration="3188000" />
+      <workItem from="1756843612988" duration="3518000" />
+      <workItem from="1756847186507" duration="143000" />
+      <workItem from="1756847356875" duration="2160000" />
     </task>
     <servers />
   </component>
