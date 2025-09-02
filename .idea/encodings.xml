@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/source/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Tarea_02/source/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Tarea_02/source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamientoss/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClasesObjetosyEncapsulamientoss/source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Constructores/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Constructores/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tarea_02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tarea_02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tarea_02ss/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tarea_02ss/source/src/main/resources" charset="UTF-8" />
   </component>
 </project>
