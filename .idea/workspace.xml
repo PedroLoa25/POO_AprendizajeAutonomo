@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Herencia/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/modelo/Trabajador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +162,7 @@
       <workItem from="1756847186507" duration="143000" />
       <workItem from="1756847356875" duration="2391000" />
       <workItem from="1756849838481" duration="733000" />
-      <workItem from="1756859023932" duration="2748000" />
+      <workItem from="1756859023932" duration="3154000" />
     </task>
     <servers />
   </component>
