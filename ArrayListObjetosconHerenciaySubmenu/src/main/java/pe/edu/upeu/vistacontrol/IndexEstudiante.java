@@ -124,9 +124,10 @@ public class IndexEstudiante {
                         2. Eliminar
                         3. Editar
                         4. Listar
-                        5. Volver al menú principal
+                        5. Buscar por Nombre
+                        6. Volver al menú principal
                         """);
-        System.out.print("Seleccione una opción [1-5]: ");
+        System.out.print("Seleccione una opción [1-6]: ");
     }
 
     public static void inicio(){
@@ -140,9 +141,10 @@ public class IndexEstudiante {
                 case 2 -> eliminar();
                 case 3 -> editar();
                 case 4 -> listar();
-                case 5 -> Utilitarios.volver();
+                case 5 -> buscar();
+                case 6 -> Utilitarios.volver();
                 default -> Utilitarios.error(1);
             }
-        } while (opcion!=5);
+        } while (opcion!=6);
     }
 }
