@@ -3,7 +3,6 @@ package pe.edu.upeu.utils;
 /**
  * @author Daniel Levano
  */
-
 public class Utilitarios {
     public static void volver(){
         System.out.println("Regresando al MENÚ PRINCIPAL");

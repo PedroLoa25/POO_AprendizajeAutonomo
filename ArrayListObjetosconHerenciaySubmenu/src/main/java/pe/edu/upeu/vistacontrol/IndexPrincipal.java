@@ -17,6 +17,7 @@ public class IndexPrincipal {
                         """);
         System.out.print("Seleccione opcion [1-3]: ");
     }
+
     public static void inicio(){
         int opcion;
         IndexTrabajador.datosdeinstalacion();

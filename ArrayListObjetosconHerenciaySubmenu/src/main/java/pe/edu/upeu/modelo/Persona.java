@@ -7,13 +7,16 @@ public class Persona {
     private int idpersona;
     private String nombre;
     private String dni;
+
     public Persona() {
     }
+
     public Persona(int idpersona, String nombre, String dni) {
         this.idpersona = idpersona;
         this.nombre = nombre;
         this.dni = dni;
     }
+
     public String getDni() {
         return dni;
     }

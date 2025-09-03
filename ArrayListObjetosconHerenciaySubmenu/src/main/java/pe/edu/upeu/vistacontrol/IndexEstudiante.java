@@ -12,20 +12,23 @@ public class IndexEstudiante {
     private static ArrayList<Estudiante> estudiantes = new ArrayList<>();
     private static Lectura leer = new Lectura();
     public static void datosdeinstalacion(){
-        Estudiante e1 = new Estudiante("20241001", "Ingenieria de Sistemas", 22, "Juan",
-                "00000001");
+        Estudiante e1 = new Estudiante("20241001", "Ingenieria de Sistemas",
+                                       22, "Juan", "00000001");
         estudiantes.add(e1);
-        Estudiante e2 = new Estudiante("202410002", "Medicina", 15, "Pedro", "01855222");
+        Estudiante e2 = new Estudiante("202410002", "Medicina",
+                                       15, "Pedro", "01855222");
         estudiantes.add(e2);
-        Estudiante e3 = new Estudiante("202410003", "Medicina", 2, "Lucas", "33355222");
+        Estudiante e3 = new Estudiante("202410003", "Medicina",
+                                       2, "Lucas", "33355222");
         estudiantes.add(e3);
-        Estudiante e4 = new Estudiante("202410004", "Contabilidad", 13, "Andres",
-                "11155222");
+        Estudiante e4 = new Estudiante("202410004", "Contabilidad",
+                                       13, "Andres", "11155222");
         estudiantes.add(e4);
-        Estudiante e5 = new Estudiante("202410005", "Contabilidad", 40, "Juan",
-                "00000222");
+        Estudiante e5 = new Estudiante("202410005", "Contabilidad",
+                                       40, "Juan", "00000222");
         estudiantes.add(e5);
     }
+
     public static void agregar(){
         System.out.println("Agregar Estudiante");
         System.out.print("> ID: ");
@@ -42,6 +45,7 @@ public class IndexEstudiante {
         estudiantes.add(estudiante);
         System.out.println("<Se agregó un nuevo estudiante>");
     }
+
     public static void eliminar(){
         listar();
         System.out.print("Indique la posición del estudiante a eliminar: ");
@@ -50,6 +54,7 @@ public class IndexEstudiante {
         estudiantes.remove(posicion);
         System.out.println("<Se eliminó correctamente>");
     }
+
     public static void editar(){
         listar();
         System.out.print("Indique la posición del estudiante a editar: ");
@@ -74,6 +79,7 @@ public class IndexEstudiante {
 
         System.out.println("<Se editó correctamente los datos>");
     }
+
     public static void listar(){
         int numero = 0;
         for (Estudiante estudiante : estudiantes) {
@@ -88,20 +94,41 @@ public class IndexEstudiante {
             System.out.println("****************************************");
         }
     }
-    public static void buscar(){
 
+    public static void buscar(){
+        System.out.print("Ingrese el nombre del estudiante a buscar: ");
+        String nombre = leer.cadena();
+        int numero = 0;
+        for (Estudiante estudiante : estudiantes) {
+            if (estudiante.getNombre().equalsIgnoreCase(nombre)) {
+                numero++;
+                Utilitarios.lineasenblanco(1);
+                System.out.println("Estudiante Nro " + numero);
+                System.out.println("* ID: " + estudiante.getIdpersona());
+                System.out.println("* Nombre: " + estudiante.getNombre());
+                System.out.println("* DNI: " + estudiante.getDni());
+                System.out.println("* Codigo: " + estudiante.getCodigo());
+                System.out.println("* Carrera: " + estudiante.getCarrera());
+                System.out.println("****************************************");
+            }
+        }
+        if (numero == 0) {
+            System.out.println("No se encontró el estudiante con el nombre: " + nombre);
+        }
     }
+
     public static void menu(){
         System.out.print("""
- DATOS ESTUDIANTE
-1. Agregar
-2. Eliminar
-3. Editar
-4. Listar
-5. Volver al menú principal
-""");
+                        DATOS ESTUDIANTE
+                        1. Agregar
+                        2. Eliminar
+                        3. Editar
+                        4. Listar
+                        5. Volver al menú principal
+                        """);
         System.out.print("Seleccione una opción [1-5]: ");
     }
+
     public static void inicio(){
         int opcion;
         do {

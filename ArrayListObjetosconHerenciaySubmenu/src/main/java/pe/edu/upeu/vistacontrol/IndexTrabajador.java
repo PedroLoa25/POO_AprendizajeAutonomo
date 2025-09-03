@@ -12,20 +12,25 @@ public class IndexTrabajador {
     private static ArrayList<Trabajador> trabajadores = new ArrayList<>();
     private static Lectura leer = new Lectura();
     public static void datosdeinstalacion(){
-        Trabajador t1 = new Trabajador(1200, "Ventas", "Vendedor", 10, "Juan",
-                "12345678");
+        Trabajador t1 = new Trabajador(1200, "Ventas",
+                                       "Vendedor", 10,
+                                       "Juan", "12345678");
         trabajadores.add(t1);
-        Trabajador t2 = new Trabajador(4000, "Desarrollador", "Sistemas", 15, "Pedro",
-                "22222222");
+        Trabajador t2 = new Trabajador(4000, "Desarrollador",
+                                       "Sistemas", 15,
+                                       "Pedro", "22222222");
         trabajadores.add(t2);
-        Trabajador t3 = new Trabajador(7000, "Arquitecto de Software", "Sistemas", 16,
-                "Manuel", "33322233");
+        Trabajador t3 = new Trabajador(7000, "Arquitecto de Software",
+                                       "Sistemas", 16,
+                                       "Manuel", "33322233");
         trabajadores.add(t3);
-        Trabajador t4 = new Trabajador(4500, "Analista", "Sistemas", 7, "Maria",
-                "99999888");
+        Trabajador t4 = new Trabajador(4500, "Analista",
+                                       "Sistemas", 7,
+                                       "Maria", "99999888");
         trabajadores.add(t4);
-        Trabajador t5 = new Trabajador(2200, "Cajero", "Ventas", 12, "Andres",
-                "555121555");
+        Trabajador t5 = new Trabajador(2200, "Cajero",
+                                       "Ventas", 12,
+                                       "Andres", "555121555");
         trabajadores.add(t5);
     }
     public static void agregar(){
@@ -100,19 +105,40 @@ public class IndexTrabajador {
         }
     }
     public static void buscar(){
-
+        System.out.print("Ingrese el nombre del trabajador a buscar: ");
+        String nombre = leer.cadena();
+        int numero = 0;
+        for (Trabajador trabajador : trabajadores) {
+            if (trabajador.getNombre().equalsIgnoreCase(nombre)) {
+                numero++;
+                Utilitarios.lineasenblanco(1);
+                System.out.println("Trabajador Nro " + numero);
+                System.out.println("* ID: " + trabajador.getIdpersona());
+                System.out.println("* Nombre: " + trabajador.getNombre());
+                System.out.println("* DNI: " + trabajador.getDni());
+                System.out.println("* Area de Trabajo: " + trabajador.getArea_trabajo());
+                System.out.println("* Cargo: " + trabajador.getCargo());
+                System.out.println("* Salario: " + trabajador.getSalario());
+                System.out.println("****************************************");
+            }
+        }
+        if (numero == 0) {
+            System.out.println("No se encontró el trabajador con el nombre: " + nombre);
+        }
     }
+
     public static void menu(){
         System.out.print("""
-                         DATOS TRABAJADOR
-                            1. Agregar
-                            2. Eliminar
-                            3. Editar
-                            4. Listar
-                            5. Volver al menú principal
+                        DATOS TRABAJADOR
+                        1. Agregar
+                        2. Eliminar
+                        3. Editar
+                        4. Listar
+                        5. Volver al menú principal
                         """);
         System.out.print("Seleccione una opción [1-5]: ");
     }
+
     public static void inicio(){
         int opcion;
         do {

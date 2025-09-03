@@ -8,14 +8,17 @@ public class Estudiante extends Persona{
     private String carrera;
     public Estudiante() {
     }
+
     public Estudiante(int idpersona, String nombre, String dni) {
         super(idpersona, nombre, dni);
     }
+
     public Estudiante(String codigo, String carrera, int idpersona, String nombre, String dni) {
         super(idpersona, nombre, dni);
         this.codigo = codigo;
         this.carrera = carrera;
     }
+
     public String getCarrera() {
         return carrera;
     }
