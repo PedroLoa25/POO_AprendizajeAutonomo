@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Herencia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/modelo/Trabajador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,51 +38,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Index (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Index (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Index (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Index.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexLibro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexProducto.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/Tarea_03/Tarea_03_2/src/main/java/pe/edu/upeu/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.10781476&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.17045455&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Index (1).executor": "Run",
+    "Application.Index (2).executor": "Run",
+    "Application.Index (3).executor": "Run",
+    "Application.Index.executor": "Run",
+    "Application.IndexLibro.executor": "Run",
+    "Application.IndexProducto.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/Herencia/src/main/java/pe/edu/upeu/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.10781476",
+    "project.structure.side.proportion": "0.17045455",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.IndexLibro">
-    <configuration name="Index (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
-      <module name="Tarea_02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Index">
     <configuration name="Index (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
       <module name="Constructores" />
@@ -90,10 +85,8 @@
       </method>
     </configuration>
     <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
-      <module name="ClasesObjetosyEncapsulamiento" />
+      <module name="Herencia" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
@@ -130,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.Main" />
+      <module name="Herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.upeu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Index" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.IndexLibro" />
         <item itemvalue="Application.IndexProducto" />
         <item itemvalue="Application.Index (3)" />
-        <item itemvalue="Application.Index (2)" />
-        <item itemvalue="Application.Index" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,7 @@
       <workItem from="1756847186507" duration="143000" />
       <workItem from="1756847356875" duration="2391000" />
       <workItem from="1756849838481" duration="733000" />
-      <workItem from="1756859023932" duration="1212000" />
+      <workItem from="1756859023932" duration="2748000" />
     </task>
     <servers />
   </component>
