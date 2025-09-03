@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Tarea_03_1" />
+        <module name="Constructor_Parametros" />
         <module name="source" />
         <module name="Constructores" />
         <module name="Tarea_02" />
-        <module name="Tarea_03_2" />
+        <module name="Constructor_Vacio" />
         <module name="ClasesObjetosyEncapsulamiento" />
       </profile>
     </annotationProcessing>
