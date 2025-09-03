@@ -33,6 +33,7 @@ public class IndexTrabajador {
                                        "Andres", "555121555");
         trabajadores.add(t5);
     }
+
     public static void agregar(){
         System.out.println("Agregar Trabajador");
         System.out.print("> ID: ");
@@ -52,6 +53,7 @@ public class IndexTrabajador {
         trabajadores.add(trabajador);
         System.out.println("<Se agregó un nuevo trabajador>");
     }
+
     public static void eliminar(){
         listar();
         System.out.print("Indique la posición del trabajador a eliminar: ");
@@ -60,6 +62,7 @@ public class IndexTrabajador {
         trabajadores.remove(posicion);
         System.out.println("<Se eliminó correctamente>");
     }
+
     public static void editar(){
         listar();
         System.out.print("Indique la posición del trabajador a editar: ");
@@ -89,6 +92,7 @@ public class IndexTrabajador {
 
         System.out.println("<Se editó correctamente los datos>");
     }
+
     public static void listar(){
         int numero = 0;
         for (Trabajador trabajador : trabajadores) {
@@ -104,6 +108,7 @@ public class IndexTrabajador {
             System.out.println("****************************************");
         }
     }
+
     public static void buscar(){
         System.out.print("Ingrese el nombre del trabajador a buscar: ");
         String nombre = leer.cadena();
