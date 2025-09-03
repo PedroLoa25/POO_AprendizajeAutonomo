@@ -1,10 +1,13 @@
 package pe.edu.upeu.utils;
 
+import java.util.Scanner;
+
 /**
  * @author Daniel Levano
  */
 public class Lectura {
     private static final Scanner teclado = new Scanner(System.in);
+
     public String cadena(){
         return teclado.nextLine();
     }
