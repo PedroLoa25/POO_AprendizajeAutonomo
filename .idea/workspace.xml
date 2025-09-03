@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="" />
+    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/modelo/Trabajador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/utils/Lectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/utils/Utilitarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/IndexPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/IndexTrabajador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/Herencia/src/main/java/pe/edu/upeu/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/pfloa/PedroProjects/MyRepositories/POO_AprendizajeAutonomo/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.10781476",
     "project.structure.side.proportion": "0.17045455",
@@ -61,10 +74,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Index">
-    <configuration name="Index (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Index (1)">
+    <configuration name="Index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.vistacontrol.Index" />
-      <module name="Constructores" />
+      <module name="ArrayListObjetosconHerencia" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pe.edu.upeu.vistacontrol.*" />
@@ -129,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Index (1)" />
         <item itemvalue="Application.Index" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.IndexLibro" />
         <item itemvalue="Application.IndexProducto" />
-        <item itemvalue="Application.Index (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +175,7 @@
       <workItem from="1756847186507" duration="143000" />
       <workItem from="1756847356875" duration="2391000" />
       <workItem from="1756849838481" duration="733000" />
-      <workItem from="1756859023932" duration="3154000" />
+      <workItem from="1756859023932" duration="7010000" />
     </task>
     <servers />
   </component>
@@ -186,6 +199,11 @@
           <url>file://$PROJECT_DIR$/ClasesObjetosyEncapsulamiento/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tarea_03/Tarea_03_1/src/main/java/pe/edu/upeu/modelo/Producto.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

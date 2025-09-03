@@ -13,6 +13,7 @@
         <module name="source" />
         <module name="Constructor_Vacio" />
         <module name="ClasesObjetosyEncapsulamiento" />
+        <module name="ArrayListObjetosconHerencia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
