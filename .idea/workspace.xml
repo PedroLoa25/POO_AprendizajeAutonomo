@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/modelo/Trabajador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/utils/Lectura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/utils/Utilitarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/IndexPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListObjetosconHerencia/src/main/java/pe/edu/upeu/vistacontrol/IndexTrabajador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +164,7 @@
       <workItem from="1756847186507" duration="143000" />
       <workItem from="1756847356875" duration="2391000" />
       <workItem from="1756849838481" duration="733000" />
-      <workItem from="1756859023932" duration="7010000" />
+      <workItem from="1756859023932" duration="7466000" />
     </task>
     <servers />
   </component>
