@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Trabajador.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/modelo/Trabajador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/utils/Lectura.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/utils/Lectura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/utils/Utilitarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/utils/Utilitarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexEstudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexEstudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexTrabajador.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListObjetosconHerenciaySubmenu/src/main/java/pe/edu/upeu/vistacontrol/IndexTrabajador.java" afterDir="false" />
-    </list>
+    <list default="true" id="b8d099d2-e741-4214-a5a7-c08a05e5a635" name="Changes" comment="added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +175,7 @@
       <workItem from="1756847356875" duration="2391000" />
       <workItem from="1756849838481" duration="733000" />
       <workItem from="1756859023932" duration="7466000" />
-      <workItem from="1756906518924" duration="1270000" />
+      <workItem from="1756906518924" duration="1732000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <option name="closed" value="true" />
@@ -212,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756906917295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added">
+      <option name="closed" value="true" />
+      <created>1756907855392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756907855392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
