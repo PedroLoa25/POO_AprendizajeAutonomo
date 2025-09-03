@@ -11,6 +11,7 @@ import pe.edu.upeu.utils.Utilitarios;
 public class IndexTrabajador {
     private static ArrayList<Trabajador> trabajadores = new ArrayList<>();
     private static Lectura leer = new Lectura();
+
     public static void datosdeinstalacion(){
         Trabajador t1 = new Trabajador(1200, "Ventas",
                                        "Vendedor", 10,
