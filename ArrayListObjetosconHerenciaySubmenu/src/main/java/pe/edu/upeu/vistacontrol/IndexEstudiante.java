@@ -11,6 +11,7 @@ import pe.edu.upeu.utils.Utilitarios;
 public class IndexEstudiante {
     private static ArrayList<Estudiante> estudiantes = new ArrayList<>();
     private static Lectura leer = new Lectura();
+
     public static void datosdeinstalacion(){
         Estudiante e1 = new Estudiante("20241001", "Ingenieria de Sistemas",
                                        22, "Juan", "00000001");
